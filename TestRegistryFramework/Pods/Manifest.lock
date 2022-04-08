@@ -1,0 +1,16 @@
+PODS:
+  - RegistryFramework (1.0.0)
+
+DEPENDENCIES:
+  - RegistryFramework (from `../RegistryFramework/`)
+
+EXTERNAL SOURCES:
+  RegistryFramework:
+    :path: "../RegistryFramework/"
+
+SPEC CHECKSUMS:
+  RegistryFramework: 4de43e64e7f77005f258c151ae345efa011ec0c6
+
+PODFILE CHECKSUM: 0d3deeaceb2ce534b7c71f9050a92d784fa1166c
+
+COCOAPODS: 1.11.3

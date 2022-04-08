@@ -1,0 +1,21 @@
+{
+  "name": "RegistryFramework",
+  "version": "1.0.0",
+  "summary": "This is the RegistryFramework for shopping application.",
+  "description": "This is the description for RegistryFramework. This is the RegistryFramework for shopping application.",
+  "homepage": "https://github.com/venkatinjara/RegistryFramework",
+  "license": "MIT",
+  "authors": {
+    "venkatinjara": "venkat.injarapu.ios@gmail.com"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "swift_versions": "4.0",
+  "source": {
+    "git": "https://github.com/venkatinjara/RegistryFramework.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "RegistryFramework/**/*.{h,m,swift}",
+  "swift_version": "4.0"
+}
